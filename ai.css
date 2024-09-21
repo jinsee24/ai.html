@@ -1,0 +1,59 @@
+body{
+    background-color: #5D9D0B;
+}
+img{
+    border-radius: 100px;
+    margin: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+h2{
+    margin: 100px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#box1{
+    background-color:rgb(243, 246, 242);
+    height: 50px;
+    width: 450px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#5F7ADB;
+}
+#box2{
+    background-color: rgb(243, 246, 242);
+    width: 50%;
+    margin-bottom: 10px;
+    border-width: 4%;
+    border-style: solid;
+    border-color: #72EB3A;
+    padding: 4px;
+}
+h3{
+    margin-bottom: 0%;
+}
+#div{
+    background-color: rgb(243, 246, 242);
+    height: 90px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #5F7ADB;
+    padding: 4px;
+}
+#div1{
+    background-color:rgb(243, 246, 242);
+    width: 80%;
+    height: 190px;
+    padding: 4px;
+    border-width: 2px;
+    border-style:solid;
+    border-color:#5F7ADB ;
+}
+#hobbies{
+    background-color:rgb(243, 246, 242);
+    width:90% ;
+    height:120px ;
+    border-width: 2px;
+    border-style:solid;
+    border-color: #5F7ADB;
+}
